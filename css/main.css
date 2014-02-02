@@ -65,8 +65,12 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.maindiv {
+	margin: 20px;
+	width: 320px;
+	}
 
-
+.maindiv > p {margin:20px 0 }
 
 
 
